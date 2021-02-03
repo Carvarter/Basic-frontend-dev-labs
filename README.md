@@ -1,1 +1,1 @@
-# Basic-frontend-dev-labs
+1 вариант в лабораторной
