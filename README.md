@@ -1,1 +1,1 @@
-# Basic-frontend-dev-labs
+# 5 лаба
