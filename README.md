@@ -1,1 +1,1 @@
-# Basic-frontend-dev-labs
+# Четный вариант
